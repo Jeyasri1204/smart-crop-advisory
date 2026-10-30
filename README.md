@@ -1,16 +1,15 @@
-## 📌 DecodeLabs Tasks & Deliverables
+# Decode Labs Internship Tasks
 
-Intha project DecodeLabs internship tasks-kaga create pannappattadhu.
+This repository contains the projects completed as part of the **Decode Labs Internship Program**. The tasks focus on frontend development, backend API development, database integration, and full-stack application development using modern web technologies[cite: 2].
 
-### 🔹 Completed Tasks:
-- **Task 1: Project Setup & UI Foundation**
-  - Vite + React + Tailwind CSS setup panniyadhu.
-  - Responsive layout mattrum basic component structure create panniyadhu.
+---
 
-- **Task 2: Crop Advisory Core Features**
-  - Soil & weather data-ku etha maadhiri crop recommendation logic implement panniyadhu.
-  - User input form mattrum advisory display UI ready panniyadhu.
+## 📂 Repository Structure
 
-- **Task 3: Integration & Testing**
-  - API / services integration connect panniyadhu.
-  - Code refactoring mattrum GitHub repository setup complete panniyadhu.
+```text
+Decodelabs_tasks/
+├── Task_1/
+├── Task_2/
+├── Task_3/
+├── .gitignore
+└── README.md
